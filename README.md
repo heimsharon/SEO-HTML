@@ -49,7 +49,7 @@ It also highlights the benefits of these services, such as lead generation, bran
 
 ## Screenshot
 
-![Website Screenshot](assets/images/website-screenshot.png)
+![Website Screenshot](assets/images/SEO-HTML-Live.jpg)
 
 ## License
 
