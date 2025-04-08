@@ -59,7 +59,7 @@ a {
 
 /*Large image just below the header.*/
 .hero {
-    height: 100vh;  
+    height: 50vh;  
     width: 100vw;  
     margin-bottom: 25px;
     padding: 0;     
@@ -74,7 +74,7 @@ a {
 /*Styling for the image inside the hero section.*/
 .hero-image {
     width: 100%; 
-    height: 100%; 
+    height: 1000%; 
     object-fit: cover;    
 }
 
